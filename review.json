@@ -1,0 +1,64 @@
+{
+    "assessments": [
+        {
+            "assessment_id": "1",
+            "reviews": [
+                {
+                    "userid": "user1",
+                    "rating": 5,
+                    "review": "Excellent assessment! The questions were relevant and well-structured. It helped me identify my strengths and weaknesses effectively."
+                },
+                {
+                    "userid": "user2",
+                    "rating": 4,
+                    "review": "Very informative and well-designed. I wish there were more detailed explanations for each question."
+                },
+                {
+                    "userid": "user3",
+                    "rating": 3,
+                    "review": "Good assessment, but some questions seemed repetitive. Overall, a helpful tool."
+                }
+            ]
+        },
+        {
+            "assessment_id": "2",
+            "reviews": [
+                {
+                    "userid": "user4",
+                    "rating": 4,
+                    "review": "The assessment covered a wide range of topics, which was great. A few technical issues, but they were manageable."
+                },
+                {
+                    "userid": "user5",
+                    "rating": 2,
+                    "review": "Some questions were confusing and the interface was a bit slow. Needs improvement."
+                },
+                {
+                    "userid": "user6",
+                    "rating": 5,
+                    "review": "Fantastic experience! It gave me a clear insight into my skills and areas to work on."
+                }
+            ]
+        },
+        {
+            "assessment_id": "3",
+            "reviews": [
+                {
+                    "userid": "user7",
+                    "rating": 3,
+                    "review": "Average experience. The assessment was okay but could use more variety in question types."
+                },
+                {
+                    "userid": "user8",
+                    "rating": 5,
+                    "review": "Loved it! Very engaging and challenging. Would definitely recommend it to others."
+                },
+                {
+                    "userid": "user9",
+                    "rating": 4,
+                    "review": "Good assessment with detailed feedback. A few minor improvements and it would be perfect."
+                }
+            ]
+        }
+    ]
+}

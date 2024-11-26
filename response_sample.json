@@ -1,0 +1,33 @@
+{
+  "student_id": "abc123",
+  "name": "Abhinandan Dutta",
+  "class": "class_9",
+  "roll_number": "125",
+  "schoolName": "MOklsbxjbc.kdwn",
+  "schoolId": "MOklsbxjbc.kdwn",
+  "email": "ab@ab.com",
+  "board": "CBSE",
+  "phoneNo": "9681754861",
+  "section": "A",
+  "assessment_id": "assessment_9",
+  "responses": {
+    "science": [
+      {
+        "question_id": 1,
+        "option_selected": "A",
+        "justification": "gbsxxlksqnx;l"
+      },
+      { "question_id": 2, "option_selected": "A", "justification": null },
+      { "question_id": 3, "option_selected": "D", "justification": null },
+      { "question_id": 4, "option_selected": "D", "justification": null },
+      { "question_id": 5, "option_selected": "B", "justification": null },
+      { "question_id": 6, "option_selected": "C", "justification": null },
+      { "question_id": 7, "option_selected": "B", "justification": null },
+      { "question_id": 8, "option_selected": "A", "justification": null }
+    ],
+    "math": [
+      { "question_id": 9, "option_selected": "A", "justification": null },
+      { "question_id": 10, "option_selected": "D", "justification": null }
+    ]
+  }
+}

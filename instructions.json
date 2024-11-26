@@ -1,0 +1,234 @@
+[
+    {
+        "assessment_id": "1",
+        "asssessment_display_name":"Assessment 1",
+        "class": "6",
+        "board": "CBSE",
+        "assessment_duration": "600s",
+        "assessment_instructions": {
+            "dynamic_time": "120s",
+            "instructions": {
+                "Exam Conduct": {
+                    "Environment": [
+                        "Ensure you are in a quiet and distraction-free environment for the duration of the exam.",
+                        "Inform household members or roommates of your exam schedule to minimize disturbances."
+                    ],
+                    "Communication": [
+                        "Do not communicate with anyone during the assessment, including through messaging, social media platforms, or any other means.",
+                        "Any attempt to seek help or share answers will result in immediate disqualification."
+                    ],
+                    "Materials": [
+                        "Use only authorized materials and resources. Any attempt to use unauthorized materials, such as textbooks, notes, or online resources, will be considered cheating.",
+                        "Keep your workspace clear of any items not permitted for the exam."
+                    ],
+                    "Technical Issues": [
+                        "Ensure your device is fully charged or connected to a power source.",
+                        "Have a stable internet connection to prevent disruptions.",
+                        "If you encounter technical issues, contact the support team immediately using the provided contact information."
+                    ]
+                },
+                "Exam Instructions": {
+                    "Question Reading": "Read all questions carefully before answering to understand what is being asked.",
+                    "Timing": [
+                        "The duration of this exam is 120 minutes. Manage your time wisely to complete all sections within the allocated time frame.",
+                        "A notification will alert you when there are 5 minutes remaining."
+                    ],
+                    "Saving Progress": "Save your progress periodically to prevent loss of work due to technical issues.",
+                    "Browser and Timer": [
+                        "Once started, the timer will continue to run even if you close the browser window.",
+                        "Ensure you do not close the browser or navigate away from the exam page unnecessarily."
+                    ],
+                    "Submission": [
+                        "The exam will automatically submit when the allotted time elapses. Ensure all responses are finalized and submitted before this time.",
+                        "If you attempt to submit before the time is up, a pop-up will display the number of questions not attempted and not visited. Confirm your submission to finalize.",
+                        "Late submissions will not be accepted under any circumstances."
+                    ]
+                },
+                "Declaration": [
+                    "I hereby declare that I will abide by the rules and regulations set forth for this assessment.",
+                    "I understand that any violation of these rules may result in penalties, including disqualification from the assessment.",
+                    "I acknowledge that I have read and understood the exam conduct and instructions, and agree to comply with them fully."
+                ],
+                "Additional Information": {
+                    "Technical Support": "If you experience technical difficulties, please contact the support team at info@assessli or +91-8888888888.",
+                    "Accessibility": "If you require special accommodations, please notify the exam coordinator in advance.",
+                    "Feedback": "After submitting the exam, you will be directed to a feedback page where you can provide ratings and comments about your experience."
+                }
+            }
+        }
+    },
+    {
+        "assessment_id": "2",
+        "asssessment_display_name":"Assessment 2",
+        "class": "6",
+        "board": "ICSE",
+        "assessment_duration": "600s",
+        "assessment_instructions": {
+            "dynamic_time": "120s",
+            "instructions": {
+                "Exam Conduct": {
+                    "Environment": [
+                        "Ensure you are in a quiet and distraction-free environment for the duration of the exam.",
+                        "Inform household members or roommates of your exam schedule to minimize disturbances."
+                    ],
+                    "Communication": [
+                        "Do not communicate with anyone during the assessment, including through messaging, social media platforms, or any other means.",
+                        "Any attempt to seek help or share answers will result in immediate disqualification."
+                    ],
+                    "Materials": [
+                        "Use only authorized materials and resources. Any attempt to use unauthorized materials, such as textbooks, notes, or online resources, will be considered cheating.",
+                        "Keep your workspace clear of any items not permitted for the exam."
+                    ],
+                    "Technical Issues": [
+                        "Ensure your device is fully charged or connected to a power source.",
+                        "Have a stable internet connection to prevent disruptions.",
+                        "If you encounter technical issues, contact the support team immediately using the provided contact information."
+                    ]
+                },
+                "Exam Instructions": {
+                    "Question Reading": "Read all questions carefully before answering to understand what is being asked.",
+                    "Timing": [
+                        "The duration of this exam is 120 minutes. Manage your time wisely to complete all sections within the allocated time frame.",
+                        "A notification will alert you when there are 5 minutes remaining."
+                    ],
+                    "Saving Progress": "Save your progress periodically to prevent loss of work due to technical issues.",
+                    "Browser and Timer": [
+                        "Once started, the timer will continue to run even if you close the browser window.",
+                        "Ensure you do not close the browser or navigate away from the exam page unnecessarily."
+                    ],
+                    "Submission": [
+                        "The exam will automatically submit when the allotted time elapses. Ensure all responses are finalized and submitted before this time.",
+                        "If you attempt to submit before the time is up, a pop-up will display the number of questions not attempted and not visited. Confirm your submission to finalize.",
+                        "Late submissions will not be accepted under any circumstances."
+                    ]
+                },
+                "Declaration": [
+                    "I hereby declare that I will abide by the rules and regulations set forth for this assessment.",
+                    "I understand that any violation of these rules may result in penalties, including disqualification from the assessment.",
+                    "I acknowledge that I have read and understood the exam conduct and instructions, and agree to comply with them fully."
+                ],
+                "Additional Information": {
+                    "Technical Support": "If you experience technical difficulties, please contact the support team at info@assessli or +91-8888888888.",
+                    "Accessibility": "If you require special accommodations, please notify the exam coordinator in advance.",
+                    "Feedback": "After submitting the exam, you will be directed to a feedback page where you can provide ratings and comments about your experience."
+                }
+            }
+        }
+    },
+    {
+        "assessment_id": "3",
+        "asssessment_display_name":"Assessment 3",
+        "class": "7",
+        "board": "CBSE",
+        "assessment_duration": "600s",
+        "assessment_instructions": {
+            "dynamic_time": "120s",
+            "instructions": {
+                "Exam Conduct": {
+                    "Environment": [
+                        "Ensure you are in a quiet and distraction-free environment for the duration of the exam.",
+                        "Inform household members or roommates of your exam schedule to minimize disturbances."
+                    ],
+                    "Communication": [
+                        "Do not communicate with anyone during the assessment, including through messaging, social media platforms, or any other means.",
+                        "Any attempt to seek help or share answers will result in immediate disqualification."
+                    ],
+                    "Materials": [
+                        "Use only authorized materials and resources. Any attempt to use unauthorized materials, such as textbooks, notes, or online resources, will be considered cheating.",
+                        "Keep your workspace clear of any items not permitted for the exam."
+                    ],
+                    "Technical Issues": [
+                        "Ensure your device is fully charged or connected to a power source.",
+                        "Have a stable internet connection to prevent disruptions.",
+                        "If you encounter technical issues, contact the support team immediately using the provided contact information."
+                    ]
+                },
+                "Exam Instructions": {
+                    "Question Reading": "Read all questions carefully before answering to understand what is being asked.",
+                    "Timing": [
+                        "The duration of this exam is 120 minutes. Manage your time wisely to complete all sections within the allocated time frame.",
+                        "A notification will alert you when there are 5 minutes remaining."
+                    ],
+                    "Saving Progress": "Save your progress periodically to prevent loss of work due to technical issues.",
+                    "Browser and Timer": [
+                        "Once started, the timer will continue to run even if you close the browser window.",
+                        "Ensure you do not close the browser or navigate away from the exam page unnecessarily."
+                    ],
+                    "Submission": [
+                        "The exam will automatically submit when the allotted time elapses. Ensure all responses are finalized and submitted before this time.",
+                        "If you attempt to submit before the time is up, a pop-up will display the number of questions not attempted and not visited. Confirm your submission to finalize.",
+                        "Late submissions will not be accepted under any circumstances."
+                    ]
+                },
+                "Declaration": [
+                    "I hereby declare that I will abide by the rules and regulations set forth for this assessment.",
+                    "I understand that any violation of these rules may result in penalties, including disqualification from the assessment.",
+                    "I acknowledge that I have read and understood the exam conduct and instructions, and agree to comply with them fully."
+                ],
+                "Additional Information": {
+                    "Technical Support": "If you experience technical difficulties, please contact the support team at info@assessli or +91-8888888888.",
+                    "Accessibility": "If you require special accommodations, please notify the exam coordinator in advance.",
+                    "Feedback": "After submitting the exam, you will be directed to a feedback page where you can provide ratings and comments about your experience."
+                }
+            }
+        }
+    },
+    {
+        "assessment_id": "4",
+        "asssessment_display_name":"Assessment 4",
+        "class": "7",
+        "board": "ICSE",
+        "assessment_duration": "600s",
+        "assessment_instructions": {
+            "dynamic_time": "120s",
+            "instructions": {
+                "Exam Conduct": {
+                    "Environment": [
+                        "Ensure you are in a quiet and distraction-free environment for the duration of the exam.",
+                        "Inform household members or roommates of your exam schedule to minimize disturbances."
+                    ],
+                    "Communication": [
+                        "Do not communicate with anyone during the assessment, including through messaging, social media platforms, or any other means.",
+                        "Any attempt to seek help or share answers will result in immediate disqualification."
+                    ],
+                    "Materials": [
+                        "Use only authorized materials and resources. Any attempt to use unauthorized materials, such as textbooks, notes, or online resources, will be considered cheating.",
+                        "Keep your workspace clear of any items not permitted for the exam."
+                    ],
+                    "Technical Issues": [
+                        "Ensure your device is fully charged or connected to a power source.",
+                        "Have a stable internet connection to prevent disruptions.",
+                        "If you encounter technical issues, contact the support team immediately using the provided contact information."
+                    ]
+                },
+                "Exam Instructions": {
+                    "Question Reading": "Read all questions carefully before answering to understand what is being asked.",
+                    "Timing": [
+                        "The duration of this exam is 120 minutes. Manage your time wisely to complete all sections within the allocated time frame.",
+                        "A notification will alert you when there are 5 minutes remaining."
+                    ],
+                    "Saving Progress": "Save your progress periodically to prevent loss of work due to technical issues.",
+                    "Browser and Timer": [
+                        "Once started, the timer will continue to run even if you close the browser window.",
+                        "Ensure you do not close the browser or navigate away from the exam page unnecessarily."
+                    ],
+                    "Submission": [
+                        "The exam will automatically submit when the allotted time elapses. Ensure all responses are finalized and submitted before this time.",
+                        "If you attempt to submit before the time is up, a pop-up will display the number of questions not attempted and not visited. Confirm your submission to finalize.",
+                        "Late submissions will not be accepted under any circumstances."
+                    ]
+                },
+                "Declaration": [
+                    "I hereby declare that I will abide by the rules and regulations set forth for this assessment.",
+                    "I understand that any violation of these rules may result in penalties, including disqualification from the assessment.",
+                    "I acknowledge that I have read and understood the exam conduct and instructions, and agree to comply with them fully."
+                ],
+                "Additional Information": {
+                    "Technical Support": "If you experience technical difficulties, please contact the support team at info@assessli or +91-8888888888.",
+                    "Accessibility": "If you require special accommodations, please notify the exam coordinator in advance.",
+                    "Feedback": "After submitting the exam, you will be directed to a feedback page where you can provide ratings and comments about your experience."
+                }
+            }
+        }
+    }
+]

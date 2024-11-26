@@ -1,0 +1,76 @@
+{
+    "attempt_count":{
+        "correct_attempt": "30%",
+        "incorrect_attempt": "30%",
+        "unattempted": "40%"
+    },
+    "recommendations":{
+        "incorrect_attempt": {
+            "incorrect_percent": 30.7,
+            "incorrect_count": 1,
+            "recommendation": {
+                "Algebra": {
+                    "Sequences and Series": [
+                        "Ensure to carefully evaluate the bases and exponents in expressions. Remember, if the base is 1, the result will always be 1, regardless of the exponent. (Q1)"
+                    ],
+                    "Simplification of Expressions": [
+                        "Focus on identifying the greatest common divisor when simplifying ratios to ensure it cannot be divided by any number other than 1. This approach guarantees the ratio is in its simplest form. (Q3)",
+                        "Ensure to carefully follow the order of operations, starting with the multiplication and division of decimals before proceeding to addition. Practice multiplying decimals accurately to avoid errors in complex calculations. (Q11)"
+                    ],
+                    "Polynomials": [
+                        "Carefully distinguish between coefficients and degrees, ensuring accurate calculations for each. Reread the question multiple times to avoid any misinterpretation or simple errors. (Q6)"
+                    ],
+                    "Series Summation": [
+                        "To improve accuracy in solving series summations, consistently practice similar problems to minimize errors and ensure all digits are accounted for. Additionally, enhance your division skills with decimals to prevent mistakes in calculations. (Q7)"
+                    ]
+                },
+                "Inequalities": {
+                    "Integer Solutions": [
+                        "Consider that as negative numbers increase in magnitude, their values decrease. Therefore, for x < \u201337/9, x can be any integer less than \u20134. (Q2)"
+                    ]
+                },
+                "Statistics": {
+                    "Mean Calculation": [
+                        "Understanding the difference between natural and whole numbers is crucial. Natural numbers start from 1, while whole numbers start from 0; knowing this will help in solving mean-related problems correctly. (Q4)"
+                    ]
+                },
+                "Ratio and Proportion": {
+                    "Distribution": [
+                        "Focus on understanding the initial distribution of amounts based on given ratios before moving to secondary distributions. Practice breaking down complex ratio problems into smaller, manageable steps to avoid errors. (Q8)"
+                    ],
+                    "Age Problems": [
+                        "Ensure you understand that the difference in ages remains constant over time. Pay close attention to the concept that the age difference after any number of years will be the same as the current age difference. (Q16)"
+                    ],
+                    "Compound Ratios": [
+                        "Focus on mastering compound ratios and practice problems involving square roots to strengthen your understanding. This will help you accurately determine values and avoid mistakes in complex ratio questions. (Q19)"
+                    ]
+                },
+                "Geometry": {
+                    "Area and Perimeter": [
+                        "Review the formulas for calculating the area and perimeter of both rectangles and squares to ensure accurate problem-solving. Understanding these concepts is crucial for correctly determining the sum of the numerical values. (Q10)"
+                    ],
+                    "Parallel Lines and Transversals": [
+                        "Focus on identifying alternate interior and exterior angles when two parallel lines are intersected by a transversal. Understanding these angle relationships will help solve the equation more accurately. (Q15)"
+                    ],
+                    "Parallel Lines and Angles": [
+                        "Focus on identifying alternate interior angles when a transversal crosses two parallel lines. Remember, these angles are equal, which will help in solving for the variable x accurately. (Q21)"
+                    ],
+                    "Area and Percentage": [
+                        "Practice more problems that involve calculating percentage changes to strengthen your understanding of how increases and decreases affect dimensions. Focus on mastering the step-by-step process of percentage alterations to avoid common pitfalls. (Q22)"
+                    ]
+                },
+                "Number Theory": {
+                    "Divisibility Rules": [
+                        "To improve accuracy in identifying numbers divisible by 11, review the divisibility rules specifically for 11 and practice applying them to different numbers. Regularly practicing division problems will also help reinforce these concepts and increase confidence in determining divisibility. (Q24)"
+                    ]
+                }
+            }
+        },
+        "correct_attempt": {
+            "recommendation": "Keep pushing! You answered 28.6% of the questions correctly from {{correct_sub_topics}}. While there's room for growth, you've made a start. Work on practicing more to boost your confidence and performance."
+        },
+        "unattempted": {
+            "recommendation": "Good job, but you left 20.0% of questions unattempted, particularly in topics like Statistics, Number Series, Logical Reasoning. It's important to review these areas and practice more questions to build your confidence. You're on the right path, so keep pushing yourself!"
+        }
+    }
+}
