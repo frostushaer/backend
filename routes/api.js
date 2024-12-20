@@ -6,7 +6,10 @@ const Response = require("../models/response");
 const Review = require("../models/review");
 const TraitwiseRecommendation = require("../models/traitwise_recommendation");
 const TopicwiseRecommendation = require("../models/topicwise_recommendation");
+<<<<<<< HEAD
 const TraitInfo = require("../models/traitinfo");
+=======
+>>>>>>> origin/master
 const axios = require("axios");
 
 const router = express.Router();
@@ -288,6 +291,7 @@ router.get("/analytics/dark-traits", async (req, res) => {
       message: "Error fetching dark traits",
     });
   }
+<<<<<<< HEAD
 });
 
 // Topic-wise Recommendations API
@@ -330,6 +334,8 @@ router.get("/traitinfos", async (req, res) => {
   } catch (err) {
     res.status(500).json({ status: false, message: "Error fetching trait infos" });
   }
+=======
+>>>>>>> origin/master
 });
 
 module.exports = router;
